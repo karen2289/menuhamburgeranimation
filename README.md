@@ -1,4 +1,4 @@
-# menuhamburgeranimation
+# Menu hamburger animation
 Es un menu sencillo hecho con css.
 
 ![image](https://user-images.githubusercontent.com/53599271/173809299-6bc89f55-ff7c-4748-bb06-f3616f5d5f3d.png)
